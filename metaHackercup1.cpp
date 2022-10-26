@@ -25,7 +25,7 @@ int main(){
                 break;
             }
         }
-        cout << "Case #" << t << ": " << ((n <= k*2 and !moreThanTwo )? "san" : "nan") << endl;
+        cout << "Case #" << t << ": " << ((n <= k*2 and !moreThanTwo )? "ran" : "tan") << endl;
     }
     return 0;
 }
