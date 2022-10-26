@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 // insert and search O(|S|) S = lengthOfString
+//insert and try to do
 int numberOfNodesCreated = 0;
 struct node{
     node *nxt[26];
